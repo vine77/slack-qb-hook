@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/vine77/slack-qb-hook/issues"
   },
-  "homepage": "https://github.com/vine77/slack-qb-hook"
+  "homepage": "https://github.com/vine77/slack-qb-hook",
+  "dependencies": {
+    "jsonfile": "^2.0.0"
+  }
 }
