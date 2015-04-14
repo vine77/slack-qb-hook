@@ -1,0 +1,21 @@
+{
+  "name": "slack-qb-hook",
+  "version": "0.0.1",
+  "description": "QuickBuild to Slack notifications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vine77/slack-qb-hook.git"
+  },
+  "keywords": [
+    "slack",
+    "quickbuild",
+    "webhook"
+  ],
+  "author": "Nathan Ward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vine77/slack-qb-hook/issues"
+  },
+  "homepage": "https://github.com/vine77/slack-qb-hook"
+}
